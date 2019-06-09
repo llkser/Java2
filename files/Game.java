@@ -7,12 +7,10 @@ public class Game extends Shoe
 		super.shuffle();
 	}
 	public static void main(String[] args) {
-		/* 3.1.1 test1
 		BaccaratCard a=new BaccaratCard("AD");
 		BaccaratCard b=new BaccaratCard('8','H');
 		BaccaratCard c=new BaccaratCard("JS");
 		System.out.printf("a=%d,b=%d,c=%d\n",a.value(),b.value(),c.value());
-		*/
 		
 		/* 3.1.2 test2
 		Hand ob1=new Hand();
